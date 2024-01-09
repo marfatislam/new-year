@@ -190,8 +190,12 @@ body {
   margin-bottom: 50px;
 }
 .portfolio-image img {
-  width: 424px;
+  width: 420px;
   height: 450px;
+}
+.portfolio-image img:hover {
+  border: 3px solid rgb(146, 144, 144);
+  border-radius: 16px;
 }
 
 /* Subscribe section styles*/
